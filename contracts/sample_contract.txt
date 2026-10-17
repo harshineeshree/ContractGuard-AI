@@ -1,0 +1,19 @@
+SERVICE AGREEMENT
+
+This Service Agreement is between ABC Technologies Pvt Ltd ("Client")
+and XYZ Solutions Pvt Ltd ("Service Provider").
+
+Effective Date: January 1, 2026
+Expiration Date: December 31, 2026
+
+The agreement will automatically renew for one additional year unless
+either party provides written notice at least 60 days before expiration.
+
+Termination:
+Either party may terminate this agreement with 30 days written notice.
+
+Payment:
+The Client shall pay the Service Provider INR 50,000 per month.
+
+Confidentiality:
+Both parties agree to keep confidential information private.
